@@ -1,0 +1,1 @@
+learn basics of js and do some challenges
